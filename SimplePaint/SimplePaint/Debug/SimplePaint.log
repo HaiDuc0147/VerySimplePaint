@@ -1,0 +1,4 @@
+﻿  SimplePaint.cpp
+G:\Programming\SimplePaint\19120483\SimplePaint\SimplePaint\SimplePaint.cpp(378,23): warning C4018: '<': signed/unsigned mismatch
+G:\Programming\SimplePaint\19120483\SimplePaint\SimplePaint\SimplePaint.cpp(464,26): warning C4018: '<': signed/unsigned mismatch
+  SimplePaint.vcxproj -> G:\Programming\SimplePaint\19120483\SimplePaint\Debug\SimplePaint.exe

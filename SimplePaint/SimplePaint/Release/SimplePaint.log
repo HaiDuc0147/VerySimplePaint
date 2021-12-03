@@ -1,0 +1,5 @@
+﻿  GdiPlusSetup.cpp
+  SimplePaint.cpp
+G:\Programming\SimplePaint\SimplePaint\SimplePaint\SimplePaint.cpp(118,45): error C2065: 'IDI_SMALL': undeclared identifier
+G:\Programming\SimplePaint\SimplePaint\SimplePaint\SimplePaint.cpp(378,23): warning C4018: '<': signed/unsigned mismatch
+G:\Programming\SimplePaint\SimplePaint\SimplePaint\SimplePaint.cpp(464,26): warning C4018: '<': signed/unsigned mismatch
